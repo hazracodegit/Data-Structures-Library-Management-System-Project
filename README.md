@@ -62,7 +62,7 @@ next → Pointer to the next node (book)
 
 Prompts user to enter ID, title, and author.
 
-Dynamically creates a new node and inserts it at the end of the list.
+Dynamically creates a new node and inserts it at the beginning of the list.
 
 
 2️⃣ Display Books
